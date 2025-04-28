@@ -27,7 +27,6 @@
 
 ### Скриншоты
 
-<img src="screenshots/mainMenu.png" alt="Главное меню">
-<img src="screenshots/game.png" alt="Игровой процесс">
-<img src="screenshots/gamePaused.png" alt="Игра на паузе">
-<img src="screenshots/gameOver.png" alt="Экран окончания игры">
+<img src="Screenshots/StartMenu.png" alt="Главное меню">
+<img src="Screenshots/Game.png" alt="Игровой процесс">
+<img src="Screenshots/Lose.png" alt="Экран окончания игры">
